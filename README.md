@@ -4,7 +4,7 @@
 
 multi-endpoint Gym-analytics dashboard that fetches from three data sources. 
 Processes each source independently. 
-Displays a structured command-centre report and exports data as json output.
+Displays a structured report and exports data as json output.
 
 ## What It Does
 
