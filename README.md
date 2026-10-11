@@ -2,7 +2,7 @@
 
 # Gym-analytics dashboard
 
-multi-endpoint API dashboard that fetches from three data sources. 
+multi-endpoint Gym-analytics dashboard that fetches from three data sources. 
 Processes each source independently. 
 Displays a structured command-centre report and exports data as json output.
 
